@@ -31,8 +31,6 @@ const model = genAI.getGenerativeModel
     Use positive language: Focus on what can be improved, rather than just pointing out flaws.
     Offer alternative approaches: If there's a better way to do something, suggest it.
     Keep it constructive: Your goal is to help the developer improve, not to criticize them.
-
-    Don't make the reply too long, keep it short and simple unless needed.
     `
     
 });
